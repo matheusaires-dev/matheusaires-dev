@@ -1,6 +1,6 @@
 # Matheus Aires Developer
 
-Hello there! 👋 I'm Matheus Aires, a passionate computer science based in Rio de Janeiro, Brazil. Welcome to my GitHub profile.
+Hello there! 👋 I'm Matheus Aires, a passionate computer sciencer based in Rio de Janeiro, Brazil. Welcome to my GitHub profile.
 
 ## About Me
 
