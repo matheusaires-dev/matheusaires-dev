@@ -4,7 +4,7 @@ Hello there! 👋 I'm Matheus Aires, a passionate computer sciencer based in Rio
 
 ## About Me
 
-I am a technology enthusiast with over 12 years of experience in the field. My journey into the world of technology began in 2011 when I started my high school/technical education in computer science at FAETEC/ETESC. Today, I hold a degree in Computer Science from UERJ and work as a senior software developer, specializing in building web applications with Node.js, both as an architect and a programmer.
+I am a technology enthusiast with over 14 years of experience in the field. My journey into the world of technology began in 2011 when I started my high school/technical education in computer science at FAETEC/ETESC. Today, I hold a degree in Computer Science from UERJ and work as a senior software developer, specializing in building web applications with Node.js, both as an architect and a programmer.
 
 I am a Software Engineer with a strong background in Javascript/Typescript. I enjoy build challenging projects and am always eager to learn and explore new technologies.
 
