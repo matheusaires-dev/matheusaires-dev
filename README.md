@@ -13,7 +13,6 @@ Today, I work for my company, Majov Dev, where I develop web software and create
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusaires-dev&show_icons=true&bg_color=35,0C5149,07F9A2&title_color=f0f0f0&text_color=f0f0f0&icon_color=07F9A2&border_color=f0f0f0) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusaires-dev&show_icons=true&bg_color=35,0C5149,07F9A2&title_color=06121E&text_color=f0f0f0&icon_color=06121E&border_color=f0f0f0) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusaires-dev&show_icons=true&theme=transparent&title_color=07F9A2&text_color=f0f0f0&icon_color=07F9A2&border_color=07F9A2)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaires-dev&layout=compact&theme=transparent&title_color=07F9A2&text_color=f0f0f0&icon_color=07F9A2&border_color=07F9A2)
 
 ## Skills
